@@ -24,7 +24,7 @@ Few projects I've been working on:
 - [Telegram](t.me/BekaMan95)
 
 ## Other Handles
-- [Personal Website/Blog](your-website-url)
+- [Portfolio](to-be-added)
 - [Leetcode](leetcode.com/u/BekaMan95)
 - [Code forces](codeforces.com/profile/BekaMan95)
 - [Open Kattis](open.kattis.com/users/bereket-sahle)
