@@ -20,8 +20,8 @@ Few projects I've been working on:
 - Tools & Technologies: [Git, Apache, Figma, Docker, Trello, Canva, ClickUp]
 
 ## Let's Have a Chat!
-- [LinkedIn](linkedin.com/in/bereket-sahle/)
-- [Telegram](t.me/BekaMan95)
+- [LinkedIn](https://linkedin.com/in/bereket-sahle/)
+- [Telegram](https://t.me/BekaMan95)
 
 ## Other Handles
 - [Portfolio](to-be-added)
