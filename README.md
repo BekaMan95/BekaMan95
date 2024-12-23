@@ -25,9 +25,9 @@ Few projects I've been working on:
 
 ## Other Handles
 - [Portfolio](to-be-added)
-- [Leetcode](leetcode.com/u/BekaMan95)
-- [Code forces](codeforces.com/profile/BekaMan95)
-- [Open Kattis](open.kattis.com/users/bereket-sahle)
+- [Leetcode](https://leetcode.com/u/BekaMan95)
+- [Code forces](https://codeforces.com/profile/BekaMan95)
+- [Open Kattis](https://open.kattis.com/users/bereket-sahle)
 
 
 ## 📊 GitHub Stats
