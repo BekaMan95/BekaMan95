@@ -1,7 +1,7 @@
 # Hey There! 👋
 
 ## About Me
-I'm Bereket Sahle, your passionate Software Engineer from Addis Ababa, a problem solver (DSA expert) and full-stack developer. I love to do server side programming (backend) 🖥️ 🔧 📡, parallel programming ⚡ 🔀, play games 🎮 🏆.
+I'm Bereket Sahle, your passionate Software Engineer, a problem solver (DSA expert) and full-stack developer. I love to do server side programming (backend) 🖥️ 🔧 📡, parallel programming ⚡ 🔀, play games 🎮 🏆.
 
 - 🌱 I’m currently learning automations and api.
 - 🔭 I’m working on open source projects and scalable web apps in general.
